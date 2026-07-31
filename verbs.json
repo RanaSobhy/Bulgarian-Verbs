@@ -1,0 +1,1194 @@
+[
+  {
+    "infinitive_eng": "to like",
+    "verb_bg_imperfective": "харесвам",
+    "verb_bg_perfective": "харесам",
+    "group": "Cognitive & Mental States",
+    "tenses": {
+      "Present Continuous (Несвършен вид)": {
+        "аз": "харесвам",
+        "ти": "харесваш",
+        "той/тя/то": "харесва",
+        "ние": "харесваме",
+        "вие": "харесвате",
+        "те": "харесват"
+      },
+      "Present Finished (Свършен вид)": {
+        "аз": "харесам",
+        "ти": "харесаш",
+        "той/тя/то": "хареса",
+        "ние": "харесаме",
+        "вие": "харесате",
+        "те": "харесат"
+      }
+    },
+    "imperatives": {
+      "Finished / Perfective": {
+        "positive": {
+          "ти (singular)": "харесай!",
+          "вие (plural)": "харесайте!"
+        },
+        "negative": {
+          "ти (singular)": "не харесвай!",
+          "вие (plural)": "не харесвайте!"
+        }
+      },
+      "Continuous / Imperfective": {
+        "positive": {
+          "ти (singular)": "харесвай!",
+          "вие (plural)": "харесвайте!"
+        },
+        "negative": {
+          "ти (singular)": "не харесвай!",
+          "вие (plural)": "не харесвайте!"
+        }
+      }
+    }
+  },
+  {
+    "infinitive_eng": "to understand",
+    "verb_bg_imperfective": "разбирам",
+    "verb_bg_perfective": "разбера",
+    "group": "Cognitive & Mental States",
+    "tenses": {
+      "Present Continuous (Несвършен вид)": {
+        "аз": "разбирам",
+        "ти": "разбираш",
+        "той/тя/то": "разбира",
+        "ние": "разбираме",
+        "вие": "разбирате",
+        "те": "разбират"
+      },
+      "Present Finished (Свършен вид)": {
+        "аз": "разбера",
+        "ти": "разбереш",
+        "той/тя/то": "разбере",
+        "ние": "разберем",
+        "вие": "разберете",
+        "те": "разберат"
+      }
+    },
+    "imperatives": {
+      "Finished / Perfective": {
+        "positive": {
+          "ти (singular)": "разбери!",
+          "вие (plural)": "разберете!"
+        },
+        "negative": {
+          "ти (singular)": "не разбирай!",
+          "вие (plural)": "не разбирайте!"
+        }
+      },
+      "Continuous / Imperfective": {
+        "positive": {
+          "ти (singular)": "разбирай!",
+          "вие (plural)": "разбирайте!"
+        },
+        "negative": {
+          "ти (singular)": "не разбирай!",
+          "вие (plural)": "не разбирайте!"
+        }
+      }
+    }
+  },
+  {
+    "infinitive_eng": "to hear",
+    "verb_bg_imperfective": "чувам",
+    "verb_bg_perfective": "чуя",
+    "group": "Cognitive & Mental States",
+    "tenses": {
+      "Present Continuous (Несвършен вид)": {
+        "аз": "чувам",
+        "ти": "чуваш",
+        "той/тя/то": "чува",
+        "ние": "чуваме",
+        "вие": "чувате",
+        "те": "чуват"
+      },
+      "Present Finished (Свършен вид)": {
+        "аз": "чуя",
+        "ти": "чуеш",
+        "той/тя/то": "чуе",
+        "ние": "чуем",
+        "вие": "чуете",
+        "те": "чуят"
+      }
+    },
+    "imperatives": {
+      "Finished / Perfective": {
+        "positive": { "ти (singular)": "чуй!", "вие (plural)": "чуйте!" },
+        "negative": {
+          "ти (singular)": "не чувай!",
+          "вие (plural)": "не чувайте!"
+        }
+      },
+      "Continuous / Imperfective": {
+        "positive": { "ти (singular)": "чувай!", "вие (plural)": "чувайте!" },
+        "negative": {
+          "ти (singular)": "не чувай!",
+          "вие (plural)": "не чувайте!"
+        }
+      }
+    }
+  },
+  {
+    "infinitive_eng": "to see",
+    "verb_bg_imperfective": "виждам",
+    "verb_bg_perfective": "видя",
+    "group": "Cognitive & Mental States",
+    "tenses": {
+      "Present Continuous (Несвършен вид)": {
+        "аз": "виждам",
+        "ти": "виждаш",
+        "той/тя/то": "вижда",
+        "ние": "виждаме",
+        "вие": "виждате",
+        "те": "виждат"
+      },
+      "Present Finished (Свършен вид)": {
+        "аз": "видя",
+        "ти": "видиш",
+        "той/тя/то": "види",
+        "ние": "видим",
+        "вие": "видите",
+        "те": "видят"
+      }
+    },
+    "imperatives": {
+      "Finished / Perfective": {
+        "positive": { "ти (singular)": "виж!", "вие (plural)": "вижте!" },
+        "negative": {
+          "ти (singular)": "не виждай!",
+          "вие (plural)": "не виждайте!"
+        }
+      },
+      "Continuous / Imperfective": {
+        "positive": { "ти (singular)": "виждай!", "вие (plural)": "виждайте!" },
+        "negative": {
+          "ти (singular)": "не виждай!",
+          "вие (plural)": "не виждайте!"
+        }
+      }
+    }
+  },
+  {
+    "infinitive_eng": "to come / arrive",
+    "verb_bg_imperfective": "идвам",
+    "verb_bg_perfective": "дойда",
+    "group": "Motion & Directional Pairs",
+    "tenses": {
+      "Present Continuous (Несвършен вид)": {
+        "аз": "идвам",
+        "ти": "идваш",
+        "той/тя/то": "идва",
+        "ние": "идваме",
+        "вие": "идвате",
+        "те": "идват"
+      },
+      "Present Finished (Свършен вид)": {
+        "аз": "дойда",
+        "ти": "дойдеш",
+        "той/тя/то": "дойде",
+        "ние": "дойдем",
+        "вие": "дойдете",
+        "те": "дойдат"
+      }
+    },
+    "imperatives": {
+      "Finished / Perfective": {
+        "positive": { "ти (singular)": "ела!", "вие (plural)": "елате!" },
+        "negative": {
+          "ти (singular)": "не идвай!",
+          "вие (plural)": "не идвайте!"
+        }
+      },
+      "Continuous / Imperfective": {
+        "positive": { "ти (singular)": "идвай!", "вие (plural)": "идвайте!" },
+        "negative": {
+          "ти (singular)": "не идвай!",
+          "вие (plural)": "не идвайте!"
+        }
+      }
+    }
+  },
+  {
+    "infinitive_eng": "to go",
+    "verb_bg_imperfective": "отивам",
+    "verb_bg_perfective": "отида",
+    "group": "Motion & Directional Pairs",
+    "tenses": {
+      "Present Continuous (Несвършен вид)": {
+        "аз": "отивам",
+        "ти": "отиваш",
+        "той/тя/то": "отива",
+        "ние": "отиваме",
+        "вие": "отивате",
+        "те": "отиват"
+      },
+      "Present Finished (Свършен вид)": {
+        "аз": "отида",
+        "ти": "отидеш",
+        "той/тя/то": "отиде",
+        "ние": "отидем",
+        "вие": "отидете",
+        "те": "отидат"
+      }
+    },
+    "imperatives": {
+      "Finished / Perfective": {
+        "positive": { "ти (singular)": "отиди!", "вие (plural)": "отидете!" },
+        "negative": {
+          "ти (singular)": "не отивай!",
+          "вие (plural)": "не отивайте!"
+        }
+      },
+      "Continuous / Imperfective": {
+        "positive": { "ти (singular)": "отивай!", "вие (plural)": "отивайте!" },
+        "negative": {
+          "ти (singular)": "не отивай!",
+          "вие (plural)": "не отивайте!"
+        }
+      }
+    }
+  },
+  {
+    "infinitive_eng": "to enter",
+    "verb_bg_imperfective": "влизам",
+    "verb_bg_perfective": "вляза",
+    "group": "Motion & Directional Pairs",
+    "tenses": {
+      "Present Continuous (Несвършен вид)": {
+        "аз": "влизам",
+        "ти": "влизаш",
+        "той/тя/то": "влиза",
+        "ние": "влизаме",
+        "вие": "влизате",
+        "те": "влизат"
+      },
+      "Present Finished (Свършен вид)": {
+        "аз": "вляза",
+        "ти": "влезеш",
+        "той/тя/то": "влезе",
+        "ние": "влезем",
+        "вие": "влезете",
+        "те": "влязат"
+      }
+    },
+    "imperatives": {
+      "Finished / Perfective": {
+        "positive": { "ти (singular)": "влез!", "вие (plural)": "влезте!" },
+        "negative": {
+          "ти (singular)": "не влизай!",
+          "вие (plural)": "не влизайте!"
+        }
+      },
+      "Continuous / Imperfective": {
+        "positive": { "ти (singular)": "влизай!", "вие (plural)": "влизайте!" },
+        "negative": {
+          "ти (singular)": "не влизай!",
+          "вие (plural)": "не влизайте!"
+        }
+      }
+    }
+  },
+  {
+    "infinitive_eng": "to exit / go out",
+    "verb_bg_imperfective": "излизам",
+    "verb_bg_perfective": "изляза",
+    "group": "Motion & Directional Pairs",
+    "tenses": {
+      "Present Continuous (Несвършен вид)": {
+        "аз": "излизам",
+        "ти": "излизаш",
+        "той/тя/то": "излиза",
+        "ние": "излизаме",
+        "вие": "излизате",
+        "те": "излизат"
+      },
+      "Present Finished (Свършен вид)": {
+        "аз": "изляза",
+        "ти": "излезеш",
+        "той/тя/то": "излезе",
+        "ние": "излезем",
+        "вие": "излезете",
+        "те": "излязат"
+      }
+    },
+    "imperatives": {
+      "Finished / Perfective": {
+        "positive": { "ти (singular)": "излез!", "вие (plural)": "излезте!" },
+        "negative": {
+          "ти (singular)": "не излизай!",
+          "вие (plural)": "не излизайте!"
+        }
+      },
+      "Continuous / Imperfective": {
+        "positive": {
+          "ти (singular)": "излизай!",
+          "вие (plural)": "излизайте!"
+        },
+        "negative": {
+          "ти (singular)": "не излизай!",
+          "вие (plural)": "не излизайте!"
+        }
+      }
+    }
+  },
+  {
+    "infinitive_eng": "to go down / get off",
+    "verb_bg_imperfective": "слизам",
+    "verb_bg_perfective": "сляза",
+    "group": "Motion & Directional Pairs",
+    "tenses": {
+      "Present Continuous (Несвършен вид)": {
+        "аз": "слизам",
+        "ти": "слизаш",
+        "той/тя/то": "слиза",
+        "ние": "слизаме",
+        "вие": "слизате",
+        "те": "слизат"
+      },
+      "Present Finished (Свършен вид)": {
+        "аз": "сляза",
+        "ти": "слезеш",
+        "той/тя/то": "слезе",
+        "ние": "слезем",
+        "вие": "слезете",
+        "те": "слязат"
+      }
+    },
+    "imperatives": {
+      "Finished / Perfective": {
+        "positive": { "ти (singular)": "слез!", "вие (plural)": "слезте!" },
+        "negative": {
+          "ти (singular)": "не слизай!",
+          "вие (plural)": "не слизайте!"
+        }
+      },
+      "Continuous / Imperfective": {
+        "positive": { "ти (singular)": "слизай!", "вие (plural)": "слизайте!" },
+        "negative": {
+          "ти (singular)": "не слизай!",
+          "вие (plural)": "не слизайте!"
+        }
+      }
+    }
+  },
+  {
+    "infinitive_eng": "to depart / leave",
+    "verb_bg_imperfective": "заминавам",
+    "verb_bg_perfective": "замина",
+    "group": "Motion & Directional Pairs",
+    "tenses": {
+      "Present Continuous (Несвършен вид)": {
+        "аз": "заминавам",
+        "ти": "заминаваш",
+        "той/тя/то": "заминава",
+        "ние": "заминаваме",
+        "вие": "заминавате",
+        "те": "заминават"
+      },
+      "Present Finished (Свършен вид)": {
+        "аз": "замина",
+        "ти": "заминеш",
+        "той/тя/то": "замине",
+        "ние": "заминем",
+        "вие": "заминете",
+        "те": "заминат"
+      }
+    },
+    "imperatives": {
+      "Finished / Perfective": {
+        "positive": { "ти (singular)": "замини!", "вие (plural)": "заминете!" },
+        "negative": {
+          "ти (singular)": "не заминавай!",
+          "вие (plural)": "не заминавайте!"
+        }
+      },
+      "Continuous / Imperfective": {
+        "positive": {
+          "ти (singular)": "заминавай!",
+          "вие (plural)": "заминавайте!"
+        },
+        "negative": {
+          "ти (singular)": "не заминавай!",
+          "вие (plural)": "не заминавайте!"
+        }
+      }
+    }
+  },
+  {
+    "infinitive_eng": "to walk / stroll",
+    "verb_bg_imperfective": "разхождам се",
+    "verb_bg_perfective": "разходя се",
+    "group": "Daily Routine & Reflexives",
+    "tenses": {
+      "Present Continuous (Несвършен вид)": {
+        "аз": "разхождам се",
+        "ти": "разхождаш се",
+        "той/тя/то": "разхожда се",
+        "ние": "разхождаме се",
+        "вие": "разхождате се",
+        "те": "разхождат се"
+      },
+      "Present Finished (Свършен вид)": {
+        "аз": "разходя се",
+        "ти": "разходиш се",
+        "той/тя/то": "разходи се",
+        "ние": "разходим се",
+        "вие": "разходите се",
+        "те": "разходят се"
+      }
+    },
+    "imperatives": {
+      "Finished / Perfective": {
+        "positive": {
+          "ти (singular)": "разходи се!",
+          "вие (plural)": "разходете се!"
+        },
+        "negative": {
+          "ти (singular)": "не се разхождай!",
+          "вие (plural)": "не се разхождайте!"
+        }
+      },
+      "Continuous / Imperfective": {
+        "positive": {
+          "ти (singular)": "разхождай се!",
+          "вие (plural)": "разхождайте се!"
+        },
+        "negative": {
+          "ти (singular)": "не се разхождай!",
+          "вие (plural)": "не се разхождайте!"
+        }
+      }
+    }
+  },
+  {
+    "infinitive_eng": "to get up / become",
+    "verb_bg_imperfective": "ставам",
+    "verb_bg_perfective": "стана",
+    "group": "Daily Routine & Reflexives",
+    "tenses": {
+      "Present Continuous (Несвършен вид)": {
+        "аз": "ставам",
+        "ти": "ставаш",
+        "той/тя/то": "става",
+        "ние": "ставаме",
+        "вие": "ставате",
+        "те": "стават"
+      },
+      "Present Finished (Свършен вид)": {
+        "аз": "стана",
+        "ти": "станеш",
+        "той/тя/то": "стане",
+        "ние": "станем",
+        "вие": "станете",
+        "те": "станат"
+      }
+    },
+    "imperatives": {
+      "Finished / Perfective": {
+        "positive": { "ти (singular)": "стани!", "вие (plural)": "станете!" },
+        "negative": {
+          "ти (singular)": "не ставай!",
+          "вие (plural)": "не ставайте!"
+        }
+      },
+      "Continuous / Imperfective": {
+        "positive": { "ти (singular)": "ставай!", "вие (plural)": "ставайте!" },
+        "negative": {
+          "ти (singular)": "не ставай!",
+          "вие (plural)": "не ставайте!"
+        }
+      }
+    }
+  },
+  {
+    "infinitive_eng": "to go to bed",
+    "verb_bg_imperfective": "лягам си",
+    "verb_bg_perfective": "легна си",
+    "group": "Daily Routine & Reflexives",
+    "tenses": {
+      "Present Continuous (Несвършен вид)": {
+        "аз": "лягам си",
+        "ти": "лягаш си",
+        "той/тя/то": "ляга си",
+        "ние": "лягаме си",
+        "вие": "лягате си",
+        "те": "лягат си"
+      },
+      "Present Finished (Свършен вид)": {
+        "аз": "легна си",
+        "ти": "легнеш си",
+        "той/тя/то": "легне си",
+        "ние": "легнем си",
+        "вие": "легнете си",
+        "те": "легнат си"
+      }
+    },
+    "imperatives": {
+      "Finished / Perfective": {
+        "positive": {
+          "ти (singular)": "легни си!",
+          "вие (plural)": "легнете си!"
+        },
+        "negative": {
+          "ти (singular)": "не си лягай!",
+          "вие (plural)": "не си лягайте!"
+        }
+      },
+      "Continuous / Imperfective": {
+        "positive": {
+          "ти (singular)": "лягай си!",
+          "вие (plural)": "лягайте си!"
+        },
+        "negative": {
+          "ти (singular)": "не си лягай!",
+          "вие (plural)": "не си лягайте!"
+        }
+      }
+    }
+  },
+  {
+    "infinitive_eng": "to be late",
+    "verb_bg_imperfective": "закъснявам",
+    "verb_bg_perfective": "закъснея",
+    "group": "Daily Routine & Reflexives",
+    "tenses": {
+      "Present Continuous (Несвършен вид)": {
+        "аз": "закъснявам",
+        "ти": "закъсняваш",
+        "той/тя/то": "закъснява",
+        "ние": "закъсняваме",
+        "вие": "закъснявате",
+        "те": "закъсняват"
+      },
+      "Present Finished (Свършен вид)": {
+        "аз": "закъснея",
+        "ти": "закъснееш",
+        "той/тя/то": "закъснее",
+        "ние": "закъснеем",
+        "вие": "закъснеете",
+        "те": "закъснеят"
+      }
+    },
+    "imperatives": {
+      "Finished / Perfective": {
+        "positive": {
+          "ти (singular)": "закъсней!",
+          "вие (plural)": "закъснейте!"
+        },
+        "negative": {
+          "ти (singular)": "не закъснявай!",
+          "вие (plural)": "не закъснявайте!"
+        }
+      },
+      "Continuous / Imperfective": {
+        "positive": {
+          "ти (singular)": "закъснявай!",
+          "вие (plural)": "закъснявайте!"
+        },
+        "negative": {
+          "ти (singular)": "не закъснявай!",
+          "вие (plural)": "не закъснявайте!"
+        }
+      }
+    }
+  },
+  {
+    "infinitive_eng": "to meet up / encounter",
+    "verb_bg_imperfective": "срещам се",
+    "verb_bg_perfective": "срещна се",
+    "group": "Daily Routine & Reflexives",
+    "tenses": {
+      "Present Continuous (Несвършен вид)": {
+        "аз": "срещам се",
+        "ти": "срещаш се",
+        "той/тя/то": "среща се",
+        "ние": "срещаме се",
+        "вие": "срещате се",
+        "те": "срещат се"
+      },
+      "Present Finished (Свършен вид)": {
+        "аз": "срещна се",
+        "ти": "срещнеш се",
+        "той/тя/то": "срещне се",
+        "ние": "срещнем се",
+        "вие": "срещнете се",
+        "те": "срещнат се"
+      }
+    },
+    "imperatives": {
+      "Finished / Perfective": {
+        "positive": {
+          "ти (singular)": "срещни се!",
+          "вие (plural)": "срещнете се!"
+        },
+        "negative": {
+          "ти (singular)": "не се срещай!",
+          "вие (plural)": "не се срещайте!"
+        }
+      },
+      "Continuous / Imperfective": {
+        "positive": {
+          "ти (singular)": "срещай се!",
+          "вие (plural)": "срещайте се!"
+        },
+        "negative": {
+          "ти (singular)": "не се срещай!",
+          "вие (plural)": "не се срещайте!"
+        }
+      }
+    }
+  },
+  {
+    "infinitive_eng": "to cook",
+    "verb_bg_imperfective": "готвя",
+    "verb_bg_perfective": "сготвя",
+    "group": "Daily Routine & Reflexives",
+    "tenses": {
+      "Present Continuous (Несвършен вид)": {
+        "аз": "готвя",
+        "ти": "готвиш",
+        "той/тя/то": "готви",
+        "ние": "готвим",
+        "вие": "готвите",
+        "те": "готвят"
+      },
+      "Present Finished (Свършен вид)": {
+        "аз": "сготвя",
+        "ти": "сготвиш",
+        "той/тя/то": "сготви",
+        "ние": "сготвим",
+        "вие": "сготвите",
+        "те": "сготвят"
+      }
+    },
+    "imperatives": {
+      "Finished / Perfective": {
+        "positive": { "ти (singular)": "сготви!", "вие (plural)": "сгответе!" },
+        "negative": {
+          "ти (singular)": "не готви!",
+          "вие (plural)": "не гответе!"
+        }
+      },
+      "Continuous / Imperfective": {
+        "positive": { "ти (singular)": "готви!", "вие (plural)": "гответе!" },
+        "negative": {
+          "ти (singular)": "не готви!",
+          "вие (plural)": "не гответе!"
+        }
+      }
+    }
+  },
+  {
+    "infinitive_eng": "to buy",
+    "verb_bg_imperfective": "купувам",
+    "verb_bg_perfective": "купя",
+    "group": "Transactions & Productivity",
+    "tenses": {
+      "Present Continuous (Несвършен вид)": {
+        "аз": "купувам",
+        "ти": "купуваш",
+        "той/тя/то": "купува",
+        "ние": "купуваме",
+        "вие": "купувате",
+        "те": "купуват"
+      },
+      "Present Finished (Свършен вид)": {
+        "аз": "купя",
+        "ти": "купиш",
+        "той/тя/то": "купи",
+        "ние": "купим",
+        "вие": "купите",
+        "те": "купят"
+      }
+    },
+    "imperatives": {
+      "Finished / Perfective": {
+        "positive": { "ти (singular)": "купи!", "вие (plural)": "купете!" },
+        "negative": {
+          "ти (singular)": "не купувай!",
+          "вие (plural)": "не купувайте!"
+        }
+      },
+      "Continuous / Imperfective": {
+        "positive": {
+          "ти (singular)": "купувай!",
+          "вие (plural)": "купувайте!"
+        },
+        "negative": {
+          "ти (singular)": "не купувай!",
+          "вие (plural)": "не купувайте!"
+        }
+      }
+    }
+  },
+  {
+    "infinitive_eng": "to sell",
+    "verb_bg_imperfective": "продавам",
+    "verb_bg_perfective": "продам",
+    "group": "Transactions & Productivity",
+    "tenses": {
+      "Present Continuous (Несвършен вид)": {
+        "аз": "продавам",
+        "ти": "продаваш",
+        "той/тя/то": "продава",
+        "ние": "продаваме",
+        "вие": "продавате",
+        "те": "продават"
+      },
+      "Present Finished (Свършен вид)": {
+        "аз": "продам",
+        "ти": "продадеш",
+        "той/тя/то": "продаде",
+        "ние": "продадем",
+        "вие": "продадете",
+        "те": "продадат"
+      }
+    },
+    "imperatives": {
+      "Finished / Perfective": {
+        "positive": { "ти (singular)": "продай!", "вие (plural)": "продайте!" },
+        "negative": {
+          "ти (singular)": "не продавай!",
+          "вие (plural)": "не продавайте!"
+        }
+      },
+      "Continuous / Imperfective": {
+        "positive": {
+          "ти (singular)": "продавай!",
+          "вие (plural)": "продавайте!"
+        },
+        "negative": {
+          "ти (singular)": "не продавай!",
+          "вие (plural)": "не продавайте!"
+        }
+      }
+    }
+  },
+  {
+    "infinitive_eng": "to pay",
+    "verb_bg_imperfective": "плащам",
+    "verb_bg_perfective": "платя",
+    "group": "Transactions & Productivity",
+    "tenses": {
+      "Present Continuous (Несвършен вид)": {
+        "аз": "плащам",
+        "ти": "плащаш",
+        "той/тя/то": "плаща",
+        "ние": "плащаме",
+        "вие": "плащате",
+        "те": "плащат"
+      },
+      "Present Finished (Свършен вид)": {
+        "аз": "платя",
+        "ти": "платиш",
+        "той/тя/то": "плати",
+        "ние": "платим",
+        "вие": "платите",
+        "те": "платят"
+      }
+    },
+    "imperatives": {
+      "Finished / Perfective": {
+        "positive": { "ти (singular)": "плати!", "вие (plural)": "платете!" },
+        "negative": {
+          "ти (singular)": "не плащай!",
+          "вие (plural)": "не плащайте!"
+        }
+      },
+      "Continuous / Imperfective": {
+        "positive": { "ти (singular)": "плащай!", "вие (plural)": "плащайте!" },
+        "negative": {
+          "ти (singular)": "не плащай!",
+          "вие (plural)": "не плащайте!"
+        }
+      }
+    }
+  },
+  {
+    "infinitive_eng": "to give",
+    "verb_bg_imperfective": "давам",
+    "verb_bg_perfective": "дам",
+    "group": "Transactions & Productivity",
+    "tenses": {
+      "Present Continuous (Несвършен вид)": {
+        "аз": "давам",
+        "ти": "даваш",
+        "той/тя/то": "дава",
+        "ние": "даваме",
+        "вие": "давате",
+        "те": "дават"
+      },
+      "Present Finished (Свършен вид)": {
+        "аз": "дам",
+        "ти": "дадеш",
+        "той/тя/то": "даде",
+        "ние": "дадем",
+        "вие": "дадете",
+        "те": "дадат"
+      }
+    },
+    "imperatives": {
+      "Finished / Perfective": {
+        "positive": { "ти (singular)": "дай!", "вие (plural)": "дайте!" },
+        "negative": {
+          "ти (singular)": "не давай!",
+          "вие (plural)": "не давайте!"
+        }
+      },
+      "Continuous / Imperfective": {
+        "positive": { "ти (singular)": "давай!", "вие (plural)": "давайте!" },
+        "negative": {
+          "ти (singular)": "не давай!",
+          "вие (plural)": "не давайте!"
+        }
+      }
+    }
+  },
+  {
+    "infinitive_eng": "to make / do",
+    "verb_bg_imperfective": "правя",
+    "verb_bg_perfective": "направя",
+    "group": "Transactions & Productivity",
+    "tenses": {
+      "Present Continuous (Несвършен вид)": {
+        "аз": "правя",
+        "ти": "правиш",
+        "той/тя/то": "прави",
+        "ние": "правиме",
+        "вие": "правите",
+        "те": "правят"
+      },
+      "Present Finished (Свършен вид)": {
+        "аз": "направя",
+        "ти": "направиш",
+        "той/тя/то": "направи",
+        "ние": "направим",
+        "вие": "направите",
+        "те": "направят"
+      }
+    },
+    "imperatives": {
+      "Finished / Perfective": {
+        "positive": {
+          "ти (singular)": "направи!",
+          "вие (plural)": "направете!"
+        },
+        "negative": {
+          "ти (singular)": "не прави!",
+          "вие (plural)": "не правете!"
+        }
+      },
+      "Continuous / Imperfective": {
+        "positive": { "ти (singular)": "прави!", "вие (plural)": "правете!" },
+        "negative": {
+          "ти (singular)": "не прави!",
+          "вие (plural)": "не правете!"
+        }
+      }
+    }
+  },
+  {
+    "infinitive_eng": "to find",
+    "verb_bg_imperfective": "намирам",
+    "verb_bg_perfective": "намеря",
+    "group": "Transactions & Productivity",
+    "tenses": {
+      "Present Continuous (Несвършен вид)": {
+        "аз": "намирам",
+        "ти": "намираш",
+        "той/тя/то": "намира",
+        "ние": "намираме",
+        "вие": "намирате",
+        "те": "намират"
+      },
+      "Present Finished (Свършен вид)": {
+        "аз": "намеря",
+        "ти": "намериш",
+        "той/тя/то": "намери",
+        "ние": "намерим",
+        "вие": "намерите",
+        "те": "намерят"
+      }
+    },
+    "imperatives": {
+      "Finished / Perfective": {
+        "positive": { "ти (singular)": "намери!", "вие (plural)": "намерете!" },
+        "negative": {
+          "ти (singular)": "не намирай!",
+          "вие (plural)": "не намирайте!"
+        }
+      },
+      "Continuous / Imperfective": {
+        "positive": {
+          "ти (singular)": "намирай!",
+          "вие (plural)": "намирайте!"
+        },
+        "negative": {
+          "ти (singular)": "не намирай!",
+          "вие (plural)": "не намирайте!"
+        }
+      }
+    }
+  },
+  {
+    "infinitive_eng": "to open",
+    "verb_bg_imperfective": "отварям",
+    "verb_bg_perfective": "отворя",
+    "group": "Structural & Boundary Limits",
+    "tenses": {
+      "Present Continuous (Несвършен вид)": {
+        "аз": "отварям",
+        "ти": "отваряш",
+        "той/тя/то": "отваря",
+        "ние": "отваряме",
+        "вие": "отваряте",
+        "те": "отварят"
+      },
+      "Present Finished (Свършен вид)": {
+        "аз": "отворя",
+        "ти": "отвориш",
+        "той/тя/то": "отвори",
+        "ние": "отворим",
+        "вие": "отворите",
+        "те": "отворят"
+      }
+    },
+    "imperatives": {
+      "Finished / Perfective": {
+        "positive": { "ти (singular)": "отвори!", "вие (plural)": "отворете!" },
+        "negative": {
+          "ти (singular)": "не отваряй!",
+          "вие (plural)": "не отваряйте!"
+        }
+      },
+      "Continuous / Imperfective": {
+        "positive": {
+          "ти (singular)": "отваряй!",
+          "вие (plural)": "отваряйте!"
+        },
+        "negative": {
+          "ти (singular)": "не отваряй!",
+          "вие (plural)": "не отваряйте!"
+        }
+      }
+    }
+  },
+  {
+    "infinitive_eng": "to close",
+    "verb_bg_imperfective": "затварям",
+    "verb_bg_perfective": "затворя",
+    "group": "Structural & Boundary Limits",
+    "tenses": {
+      "Present Continuous (Несвършен вид)": {
+        "аз": "затварям",
+        "ти": "затваряш",
+        "той/тя/то": "затваря",
+        "ние": "затваряме",
+        "вие": "затваряте",
+        "те": "затварят"
+      },
+      "Present Finished (Свършен вид)": {
+        "аз": "затворя",
+        "ти": "затвориш",
+        "той/тя/то": "затвори",
+        "ние": "затворим",
+        "вие": "заворите",
+        "те": "затворят"
+      }
+    },
+    "imperatives": {
+      "Finished / Perfective": {
+        "positive": {
+          "ти (singular)": "затвори!",
+          "вие (plural)": "затворете!"
+        },
+        "negative": {
+          "ти (singular)": "не затваряй!",
+          "вие (plural)": "не затваряйте!"
+        }
+      },
+      "Continuous / Imperfective": {
+        "positive": {
+          "ти (singular)": "затваряй!",
+          "вие (plural)": "затваряйте!"
+        },
+        "negative": {
+          "ти (singular)": "не затваряй!",
+          "вие (plural)": "не затваряйте!"
+        }
+      }
+    }
+  },
+  {
+    "infinitive_eng": "to put / place",
+    "verb_bg_imperfective": "слагам",
+    "verb_bg_perfective": "сложа",
+    "group": "Structural & Boundary Limits",
+    "tenses": {
+      "Present Continuous (Несвършен вид)": {
+        "аз": "слагам",
+        "ти": "слагаш",
+        "той/тя/то": "слага",
+        "ние": "слагаме",
+        "вие": "слагате",
+        "те": "слагат"
+      },
+      "Present Finished (Свършен вид)": {
+        "аз": "сложа",
+        "ти": "сложиш",
+        "той/тя/то": "сложи",
+        "ние": "сложим",
+        "вие": "сложите",
+        "те": "сложат"
+      }
+    },
+    "imperatives": {
+      "Finished / Perfective": {
+        "positive": { "ти (singular)": "сложи!", "вие (plural)": "сложете!" },
+        "negative": {
+          "ти (singular)": "не слагай!",
+          "вие (plural)": "не слагайте!"
+        }
+      },
+      "Continuous / Imperfective": {
+        "positive": { "ти (singular)": "слагай!", "вие (plural)": "слагайте!" },
+        "negative": {
+          "ти (singular)": "не слагай!",
+          "вие (plural)": "не слагайте!"
+        }
+      }
+    }
+  },
+  {
+    "infinitive_eng": "to finish / end",
+    "verb_bg_imperfective": "свършвам",
+    "verb_bg_perfective": "свърша",
+    "group": "Structural & Boundary Limits",
+    "tenses": {
+      "Present Continuous (Несвършен вид)": {
+        "аз": "свършвам",
+        "ти": "свършваш",
+        "той/тя/то": "свършва",
+        "ние": "свършваме",
+        "вие": "свършвате",
+        "те": "свършват"
+      },
+      "Present Finished (Свършен вид)": {
+        "аз": "свърша",
+        "ти": "свършиш",
+        "той/тя/то": "свърши",
+        "ние": "свържим",
+        "вие": "свършите",
+        "те": "свършат"
+      }
+    },
+    "imperatives": {
+      "Finished / Perfective": {
+        "positive": { "ти (singular)": "свърши!", "вие (plural)": "свършете!" },
+        "negative": {
+          "ти (singular)": "не свършвай!",
+          "вие (plural)": "не свършвайте!"
+        }
+      },
+      "Continuous / Imperfective": {
+        "positive": {
+          "ти (singular)": "свършвай!",
+          "вие (plural)": "свършвайте!"
+        },
+        "negative": {
+          "ти (singular)": "не свършвай!",
+          "вие (plural)": "не свършвайте!"
+        }
+      }
+    }
+  },
+  {
+    "infinitive_eng": "to invite",
+    "verb_bg_imperfective": "каня",
+    "verb_bg_perfective": "поканя",
+    "group": "Structural & Boundary Limits",
+    "tenses": {
+      "Present Continuous (Несвършен вид)": {
+        "аз": "каня",
+        "ти": "каниш",
+        "той/тя/то": "кани",
+        "ние": "каним",
+        "вие": "каните",
+        "те": "канят"
+      },
+      "Present Finished (Свършен вид)": {
+        "аз": "поканя",
+        "ти": "поканиш",
+        "той/тя/то": "покани",
+        "ние": "поканим",
+        "вие": "поканите",
+        "те": "поканят"
+      }
+    },
+    "imperatives": {
+      "Finished / Perfective": {
+        "positive": { "ти (singular)": "покани!", "вие (plural)": "поканете!" },
+        "negative": {
+          "ти (singular)": "не кани!",
+          "вие (plural)": "не канете!"
+        }
+      },
+      "Continuous / Imperfective": {
+        "positive": { "ти (singular)": "кани!", "вие (plural)": "канете!" },
+        "negative": {
+          "ти (singular)": "не кани!",
+          "вие (plural)": "не канете!"
+        }
+      }
+    }
+  },
+  {
+    "infinitive_eng": "to help",
+    "verb_bg_imperfective": "помагам",
+    "verb_bg_perfective": "помогна",
+    "group": "Structural & Boundary Limits",
+    "tenses": {
+      "Present Continuous (Несвършен вид)": {
+        "аз": "помагам",
+        "ти": "помагаш",
+        "той/тя/то": "помага",
+        "ние": "помагаме",
+        "вие": "помагате",
+        "те": "помагат"
+      },
+      "Present Finished (Свършен вид)": {
+        "аз": "помогна",
+        "ти": "помогнеш",
+        "той/тя/то": "помогне",
+        "ние": "помогнем",
+        "вие": "помогнете",
+        "те": "помогнат"
+      }
+    },
+    "imperatives": {
+      "Finished / Perfective": {
+        "positive": {
+          "ти (singular)": "помогни!",
+          "вие (plural)": "помогнете!"
+        },
+        "negative": {
+          "ти (singular)": "не помагай!",
+          "вие (plural)": "не помагайте!"
+        }
+      },
+      "Continuous / Imperfective": {
+        "positive": {
+          "ти (singular)": "помагай!",
+          "вие (plural)": "помагайте!"
+        },
+        "negative": {
+          "ти (singular)": "не помагай!",
+          "вие (plural)": "не помагайте!"
+        }
+      }
+    }
+  }
+]
